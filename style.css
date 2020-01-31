@@ -21,7 +21,12 @@ body {
 
 h1{
   color: #ffffff;
-  
+  font-size: 30px;
+  text-align: right;
+  position: absolute; 
+  bottom: 0; 
+  right: 0;
+  padding-right: 20px;
   
 }
 
