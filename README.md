@@ -7,3 +7,5 @@ Especificaciones del proyecto:
 - Empezar y pausar canciones.
 - Cambiar canciones.
 - Progreso de las canciones.
+
+![](images/screen.png)
